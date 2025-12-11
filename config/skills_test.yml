@@ -1,0 +1,23 @@
+# ML Skills Configuration for Test Dataset
+# These skills are reserved for final model evaluation
+
+skills:
+  - skill_id: deep_q_learning
+    name: "Deep Q-Learning Implementation"
+    description: "Learn to implement Deep Q-Networks (DQN) for reinforcement learning tasks, including setting up the environment (Gymnasium), building the Q-network, experience replay buffers, and the training loop."
+    queries:
+      - "dqn reinforcement learning python"
+      - "deep q network pytorch tutorial"
+      - "reinforcement learning stable baselines3"
+      - "openai gym tutorial python"
+      - "how to build a dqn agent"
+
+  - skill_id: model_deployment_api
+    name: "Model Deployment with FastAPI/Flask"
+    description: "Learn how to deploy machine learning models as REST APIs using frameworks like FastAPI or Flask, including serializing models (pickle/joblib), creating API endpoints, and basic containerization (Docker)."
+    queries:
+      - "deploy ml model flask"
+      - "fastapi machine learning tutorial"
+      - "dockerize python machine learning model"
+      - "serve sklearn model api"
+      - "machine learning model deployment python"
