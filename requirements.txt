@@ -1,0 +1,24 @@
+# Core dependencies for Module 1: Data Acquisition
+google-api-python-client>=2.100.0
+python-dotenv>=1.0.0
+youtube-transcript-api>=1.2.3
+pandas>=2.0.0
+pyyaml>=6.0
+isodate>=0.6.1
+
+# Optional but recommended
+requests>=2.31.0
+
+# Module 2: EDA and Preprocessing dependencies
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+nltk>=3.8.1
+
+# Module 3: Baseline models
+rank-bm25>=0.2.2
+faiss-cpu>=1.7.4
+
+# Gemini-based labeling
+google-generativeai>=0.3.0
+tqdm>=4.65.0
