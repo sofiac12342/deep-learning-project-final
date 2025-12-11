@@ -2,7 +2,6 @@
 Data Acquisition Pipeline 
 Main entry point: collects YouTube videos, metadata, and transcripts.
 """
-
 import os
 import sys
 import argparse
