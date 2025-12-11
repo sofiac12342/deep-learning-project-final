@@ -1,0 +1,5 @@
+model,precision_at_10,ndcg_at_10
+BM25,0.59,0.8149446411483418
+SBERT,0.75,0.8612868249983606
+Cross-Encoder (Zero-Shot),0.55,0.8520953445770767
+Cross-Encoder (Fine-Tuned),0.95,0.9294932525291433

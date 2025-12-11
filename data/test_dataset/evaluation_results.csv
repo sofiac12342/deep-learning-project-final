@@ -1,0 +1,11 @@
+skill,query,NDCG@10_BM25,NDCG@10_SBERT_SkillDesc,NDCG@10_CE_ZeroShot_Desc,NDCG@10_CE_FineTuned_Desc,Precision@10_BM25,Precision@10_SBERT_SkillDesc,Precision@10_CE_ZeroShot_Desc,Precision@10_CE_FineTuned_Desc
+deep_q_learning,dqn reinforcement learning python,0.8215030315041344,0.8864368430982974,0.8882425181440199,1.0,0.7,0.7,0.6,1.0
+deep_q_learning,deep q network pytorch tutorial,0.9119913235890797,0.8864368430982974,0.8882425181440199,1.0,0.7,0.7,0.6,1.0
+deep_q_learning,reinforcement learning stable baselines3,0.8179071030042842,0.8864368430982974,0.8882425181440199,1.0,0.6,0.7,0.6,1.0
+deep_q_learning,openai gym tutorial python,0.8048562131272556,0.8864368430982974,0.8882425181440199,1.0,0.6,0.7,0.6,1.0
+deep_q_learning,how to build a dqn agent,0.8026331789619204,0.8864368430982974,0.8882425181440199,1.0,0.6,0.7,0.6,1.0
+model_deployment_api,deploy ml model flask,0.7369481886310919,0.818060272404516,0.8026405833635406,0.8891816838572523,0.5,0.8,0.5,0.9
+model_deployment_api,fastapi machine learning tutorial,0.8300132804625933,0.818060272404516,0.8026405833635406,0.8891816838572523,0.8,0.8,0.5,0.9
+model_deployment_api,dockerize python machine learning model,0.8444289267627597,0.818060272404516,0.8026405833635406,0.8891816838572523,0.7,0.8,0.5,0.9
+model_deployment_api,serve sklearn model api,0.820059204873146,0.818060272404516,0.8026405833635406,0.8891816838572523,0.7,0.8,0.5,0.9
+model_deployment_api,machine learning model deployment python,0.6534155792019951,0.818060272404516,0.8026405833635406,0.8891816838572523,0.5,0.8,0.5,0.9

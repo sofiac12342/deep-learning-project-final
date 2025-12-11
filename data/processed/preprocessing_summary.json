@@ -1,0 +1,9 @@
+{
+  "total_videos": 384,
+  "total_chunks": 12170,
+  "avg_chunks_per_video": 31.692708333333332,
+  "avg_tokens_per_chunk": 332.47937551355795,
+  "median_tokens_per_chunk": 358.0,
+  "min_tokens_per_chunk": 1,
+  "max_tokens_per_chunk": 382
+}
