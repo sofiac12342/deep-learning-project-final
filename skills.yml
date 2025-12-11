@@ -1,0 +1,87 @@
+# ML Skills Configuration for Video Acquisition
+# Each skill includes:
+# - skill_id: unique identifier (snake_case)
+# - name: skill name
+# - queries: 3-5 YouTube search queries to find relevant educational content
+
+skills:
+  - skill_id: numpy_array_manipulation
+    name: "NumPy array manipulation"
+    description: "Learn how to create, manipulate, and operate on NumPy arrays including indexing, slicing, reshaping, broadcasting, and performing mathematical operations on multidimensional arrays."
+    queries:
+      - "numpy array tutorial"
+      - "numpy arrays python"
+      - "numpy array manipulation"
+      - "learn numpy arrays"
+      - "numpy array operations"
+
+  - skill_id: pandas_data_cleaning
+    name: "Pandas data cleaning"
+    description: "Learn data cleaning techniques in Pandas including handling missing values, removing duplicates, converting data types, filtering data, and preparing datasets for analysis."
+    queries:
+      - "pandas data cleaning tutorial"
+      - "pandas clean data python"
+      - "pandas data preprocessing"
+      - "pandas missing data"
+      - "pandas data wrangling"
+
+  - skill_id: matplotlib_visualization
+    name: "Matplotlib data visualization"
+    description: "Learn to create data visualizations using Matplotlib including line plots, scatter plots, bar charts, histograms, customizing plot appearance, adding labels and legends."
+    queries:
+      - "matplotlib tutorial"
+      - "matplotlib python visualization"
+      - "matplotlib plot tutorial"
+      - "matplotlib data visualization"
+      - "learn matplotlib python"
+
+  - skill_id: sklearn_model_training
+    name: "Scikit-learn model training"
+    description: "Learn to train machine learning models using scikit-learn including loading datasets, splitting data into train test sets, fitting models, making predictions, and basic model evaluation."
+    queries:
+      - "scikit-learn tutorial"
+      - "sklearn machine learning"
+      - "sklearn model training"
+      - "scikit-learn classification"
+      - "sklearn regression tutorial"
+
+  - skill_id: pytorch_neural_networks
+    name: "PyTorch neural network basics"
+    description: "Learn to build and train neural networks with PyTorch including creating tensors, defining network architectures with layers, implementing forward pass, backpropagation, and optimization."
+    queries:
+      - "pytorch neural network tutorial"
+      - "pytorch deep learning"
+      - "pytorch basics"
+      - "learn pytorch"
+      - "pytorch neural network from scratch"
+
+  - skill_id: tensorflow_image_classification
+    name: "TensorFlow image classification"
+    description: "Learn image classification using TensorFlow including preprocessing images, building convolutional neural networks (CNNs), training models, evaluating performance, and making predictions."
+    queries:
+      - "tensorflow image classification"
+      - "tensorflow cnn tutorial"
+      - "tensorflow image recognition"
+      - "tensorflow computer vision"
+      - "tensorflow keras image classification"
+
+  - skill_id: feature_engineering
+    name: "Feature engineering for ML"
+    description: "Learn feature engineering techniques including creating new features, applying transformations, encoding categorical variables, scaling numerical features, and selecting relevant features."
+    queries:
+      - "feature engineering tutorial"
+      - "feature engineering machine learning"
+      - "feature extraction ml"
+      - "feature engineering python"
+      - "machine learning feature engineering"
+
+  - skill_id: model_evaluation_metrics
+    name: "Model evaluation metrics"
+    description: "Learn to evaluate machine learning models using metrics including accuracy, precision, recall, F1-score, confusion matrices, ROC curves, and understanding when to use each metric."
+    queries:
+      - "model evaluation metrics"
+      - "machine learning metrics"
+      - "classification metrics tutorial"
+      - "regression metrics ml"
+      - "confusion matrix tutorial"
+
